@@ -17,15 +17,17 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
             src="Design sem nome (1).png"
+            terget="blank"
         />
     </a>
-     &nbsp;&nbsp;
+     <br>
     <a href="https://www.instagram.com/ai.digitaal/"> 
         <img 
             height="50px"
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
             src="Design sem nome (3).png"
+            target="blank"
         />
     </a>
 </p>
