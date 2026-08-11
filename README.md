@@ -73,11 +73,11 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=carlosmacedo-byte&show_icons=true&theme=react&locale=pt-br"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmacedo-byte&theme=react"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmacedo-byte&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carlosmacedo-byte&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
 </p>
