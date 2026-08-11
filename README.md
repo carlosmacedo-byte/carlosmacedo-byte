@@ -2,10 +2,13 @@
 
 **`Desenvolverdor Júnior`**
 
-Marketing Digital - Gestor de Automação - Estudante de Programação.
-Desde de Janeiro de 2026 estudo e executo meus conhecimentos como desenvolverdor. Rsesultados podem ser vistos pela minha empresa <B>AIDigital</b> -- <a href="https://aidigitalmarketing.com.br">Site AIDigital</a>
+Desenvolvedor Low-Code & Especialista em Automações (n8n, WordPress & Agentes de IA)
+<br/>
+Desde de Janeiro de 2026 estudo e executo meus conhecimentos como desenvolverdor. 
+<br/>
+Vistem meu atual empreendimento:  <B>AIDigital</b> -- <a href="https://aidigitalmarketing.com.br">Site AIDigital</a>
 
-Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs. 
+Dentre minhas criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs. 
 
 <br>
 
@@ -66,10 +69,18 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/33ef8db7-da25-4187-a214-ab145bf3ee02" 
-    />
+    src="https://github.com/user-attachments/assets/a589c4bc-f5de-401c-a39c-9a0e1e4d6495" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/1219ce99-49db-46cc-afa0-78ccba86163e"
+/>
 
 
 
