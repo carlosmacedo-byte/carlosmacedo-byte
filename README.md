@@ -68,7 +68,8 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/c8e0766e-7f79-43cf-9864-41473c3429f4" />
+    src="https://github.com/user-attachments/assets/33ef8db7-da25-4187-a214-ab145bf3ee02" 
+    />
 
 
 
