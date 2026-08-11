@@ -71,10 +71,6 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
 ### 📊 Estatísticas
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosmacedo-byte&theme=solarized_dark"
-  />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     height="180"
