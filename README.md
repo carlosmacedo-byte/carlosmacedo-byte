@@ -73,7 +73,7 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
 <p align="center">
   <img
     height="180"
-    src="https://streak-stats.demolab.com?user=carlosmacedo-byte&theme=react"
+    src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=carlosmacedo-byte&show_icons=true&theme=react&locale=pt-br"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
