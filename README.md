@@ -70,6 +70,7 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
 
 ### 📊 Estatísticas
 
+
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
