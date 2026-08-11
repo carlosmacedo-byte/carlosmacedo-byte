@@ -70,12 +70,10 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=carlosmacedo-byte&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=carlosmacedo-byte&show_icons=true&theme=react&locale=pt-br"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
