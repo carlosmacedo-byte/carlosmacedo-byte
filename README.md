@@ -62,6 +62,14 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/c8e0766e-7f79-43cf-9864-41473c3429f4" />
+
 
 
 
