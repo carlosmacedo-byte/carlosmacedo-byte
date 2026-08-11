@@ -70,19 +70,16 @@ Dentre criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs
 
 ### 📊 Estatísticas
 
-<p>
-    <div align="center">
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosmacedo-byte&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosmacedo-byte&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-      />
-    </div>
-</p>
+### 📊 Estatísticas
 
-
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=carlosmacedo-byte&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmacedo-byte&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+  />
 </p>
