@@ -1,100 +1,46 @@
 # Carlos Macedo 💻
 
-**`Desenvolverdor Júnior`**
+**Desenvolvedor Front-End & Especialista em Automações (n8n, WordPress & Agentes de IA)**
 
-Desenvolvedor Low-Code & Especialista em Automações (n8n, WordPress & Agentes de IA)
-<br/>
-Desde de Janeiro de 2026 estudo e executo meus conhecimentos como desenvolverdor. 
-<br/>
-Vistem meu atual empreendimento:  <B>AIDigital</b> -- <a href="https://aidigitalmarketing.com.br">Site AIDigital</a>
+Atuo no desenvolvimento de soluções web e automações inteligentes, combinando código nativo, ecossistema JavaScript e ferramentas Low-Code para construir produtos focados em alta performance e conversão.
 
-Dentre minhas criaçôes estão: ChatBots / Agentes de IA e Automação / Sites e Blogs. 
+🌐 **Empreendimento:** [AIDigital](https://aidigitalmarketing.com.br)  
+🚀 **Especialidades:** Chatbots & Agentes de IA | Automação de Processos | Websites & Web Apps
 
-<br>
+---
+
+### 📬 Conecte-se comigo
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/carlos-macedo-2557513b4/">
-        <img 
-           height="50px"
-            width="50px"
-            alt="Instagram Seguidores"
-            title="Siga-me no Instagram"
-            src="Design sem nome (1).png"
-            terget="blank"
-        />
-    </a>
-     <br>
-    <a href="https://www.instagram.com/ai.digitaal/"> 
-        <img 
-            height="50px"
-            alt="Instagram Seguidores"
-            title="Siga-me no Instagram"
-            src="Design sem nome (3).png"
-            target="blank"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/carlos-macedo-2557513b4/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ai.digitaal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://aidigitalmarketing.com.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-AIDigital-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AIDigital Website" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens, Frameworks e Ferramentas
 
-<br>
-    
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="34px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/a589c4bc-f5de-401c-a39c-9a0e1e4d6495" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="34px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/1219ce99-49db-46cc-afa0-78ccba86163e"
-/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
 
+---
 
+### 📊 Estatísticas do GitHub
 
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<br/>
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    height="180"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carlosmacedo-byte&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-  />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carlosmacedo-byte&layout=compact&custom_title=Tecnologias%20Mais%20Utilizadas&langs_count=8&theme=react" alt="Tecnologias mais usadas" />
 </p>
